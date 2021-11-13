@@ -1,6 +1,6 @@
 .head {
   padding-top: 4em;
-  margin-left: 13em;
+  margin-left: 16em;
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -42,4 +42,5 @@ footer {
   height: 120px;
   background-color: #a2d9ff;
   padding-top: 2em;
+  text-align: center;
 }
